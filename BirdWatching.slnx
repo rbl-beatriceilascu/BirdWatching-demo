@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BirdWatching.API/BirdWatching.API.csproj" />
+  <Project Path="BirdWatching.Common/BirdWatching.Common.csproj" Id="07770582-2039-4d1a-ba9b-2db49a5dcea8" />
+  <Project Path="BirdWatching.DataPersistence/BirdWatching.DataPersistence.csproj" Id="05a5054c-86b9-4c67-b2ec-5c9c4aa77a76" />
+  <Project Path="BirdWatching.Interfaces/BirdWatching.Interfaces.csproj" Id="8dba12ff-c59c-4f72-b182-39a40388fc66" />
+  <Project Path="BirdWatching.Services/BirdWatching.Services.csproj" Id="20195772-3134-4a16-a69a-e6ea069db92f" />
+  <Project Path="BirdWatching.UnitTests/BirdWatching.UnitTests.csproj" Id="9242d609-30ea-4532-9334-d73dddf3eec3" />
+</Solution>
