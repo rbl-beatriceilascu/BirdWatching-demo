@@ -1,5 +1,5 @@
 using BirdWatching.API.Helpers;
-
+//no idea
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.ConfigureAppServices(builder.Configuration);
 
